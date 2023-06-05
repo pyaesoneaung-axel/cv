@@ -1,0 +1,36 @@
+body {
+  background-color: #100F0F;
+  border-style: none;
+  color: #F1F1F1;
+}
+h1,
+h3 {
+  color: #d5b857;
+}
+img{
+    width: 200px;
+    height: 200px;
+}
+a:link {
+  color: #A5C9CA;
+}
+a:visited {
+  color: #05bec2;
+}
+hr {
+  width: 5%;
+  /* border-style: dotted;
+    border-bottom-width: 0px;
+    border-right-width: 0px;
+    border-left-width: 0px; */
+  /* border-style: none;
+    border-top-style: dotted; */
+  border-style: dotted none none none;
+  border-color: rgb(148, 143, 142);
+  border-width: 5px;
+}
+
+footer {
+  text-align: center;
+  padding: 30px;
+}
